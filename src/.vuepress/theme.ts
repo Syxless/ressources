@@ -46,7 +46,7 @@ export default hopeTheme({
       Reddit: "https://example.com",
       Rss: "https://example.com",
       Steam: "https://example.com",
-      Twitter: "https://example.com",
+      Twitter: "https://x.com/tfr_random",
       Wechat: "https://example.com",
       Weibo: "https://example.com",
       Whatsapp: "https://example.com",
@@ -72,7 +72,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "Débunk Café",
         intro: "/intro.html",
       },
 
