@@ -1,6 +1,6 @@
 # Documentation du Débunk Café
 
-![Logo Débunk Café]([https://debunkcafe.fr/logo.png](https://debunkcafe.fr/wp-content/uploads/2024/10/debunkmedia.webp)) 
+![Logo Débunk Café](https://debunkcafe.fr/wp-content/uploads/2024/10/debunkmedia.webp) 
 
 Bienvenue dans la documentation du **Débunk Café** ! 🕵️‍♂️
 
